@@ -1,16 +1,173 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Vali-Hameed/Vali-Hameed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+██╗   ██╗ █████╗ ██╗     ██╗
+██║   ██║██╔══██╗██║     ██║
+██║   ██║███████║██║     ██║
+╚██╗ ██╔╝██╔══██║██║     ██║
+ ╚████╔╝ ██║  ██║███████╗██║
+  ╚═══╝  ╚═╝  ╚═╝╚══════╝╚═╝
+```
 
-Here are some ideas to get you started:
+### *discipline in code. precision in delivery.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/⚡_Portfolio-vali--hameed.com-000000?style=for-the-badge&logoColor=white)](https://www.vali-hameed.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vali-hameed)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Valihameed88@gmail.com)
+
+</div>
+
+---
+
+## `> whoami`
+
+CS undergrad at Lancaster University chasing a First — but more importantly, someone who actually ships things.
+
+I build from first principles: no framework cargo-culting, no tutorial-driven code. Across ML systems, full-stack web apps, mobile platforms, and everything in between — I care about taking ideas all the way to deployed, working products.
+
+Currently: co-founding **Picky Eater** 🍽️ — a web + mobile platform I architect and engineer from the ground up.
+
+Outside the terminal: I'm an MMA fan (Muay Thai & Kickboxing), which probably explains why I gravitate toward problems that require sustained effort and discipline.
+
+---
+
+## `> ls ./stack`
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend / Mobile**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend / Infra**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+## `> cat ./projects`
+
+---
+
+### 🚀 Orbital Risk — *🥈 Runner-up, Leeds Hack 2026*
+
+> A 3D launch-window optimisation system built under hackathon pressure. Real-time satellite orbit and debris field visualisation powered by WebGL and Three.js. A custom risk engine calculates collision probabilities against live debris density data, while an ML-driven weather service generates automated Go/No-Go launch decisions.
+
+| Layer | Tech |
+|---|---|
+| Frontend | `Next.js 14` `TypeScript` `React` `Three.js / WebGL` |
+| Backend | `Python` `FastAPI` `XGBoost` `Scikit-Learn` `Pandas` |
+
+&nbsp;&nbsp;[🔗 Live Demo](https://leedshack2026-prototype.vercel.app/) &nbsp;·&nbsp; [📂 Code](https://github.com/akaltemamey/leedshack2026-prototype)
+
+---
+
+### 🥊 UFC Fight Predictor — *Full Microservices Ecosystem*
+
+> A passion project that became a proper engineering challenge. Three decoupled services working in concert to bring ML-powered fight predictions and community analytics to MMA fans.
+
+**How it fits together:**
+
+```
+Next.js Frontend  ──JWT──►  Spring Boot API  ──JPA──►  PostgreSQL
+                                    │
+                            ┌───────┴────────┐
+                            ▼                ▼
+                     FastAPI ML Service   Python Scraper
+                     (Logistic Regression  (Playwright / live
+                      on 6,000+ fights)    UFC data ingestion)
+```
+
+**What's inside each service:**
+
+<details>
+<summary><b>🌐 Web App</b> — Spring Boot + Next.js monorepo</summary>
+
+- JWT auth with HttpOnly cookies, refresh token rotation, and BCrypt hashing
+- Community predictions, discussion forums, and fight card polling
+- Real-time leaderboards tracking accuracy, win streaks, and points
+- Token-bucket rate limiting via Bucket4j to prevent abuse
+- Admin dashboard for managing users, roles, and fights
+- Fully containerised local dev stack via Docker Compose — no local Java or Node needed
+
+`Java 17` `Spring Boot 3` `Spring Security` `Next.js 15` `TypeScript` `PostgreSQL` `Docker`
+
+[📂 View Repo](https://github.com/Vali-Hameed/UFC-Fight-Predictor-Website)
+</details>
+
+<details>
+<summary><b>🤖 ML Service</b> — Containerised prediction API</summary>
+
+- Logistic regression model trained on 6,000+ historical bouts with Pandas preprocessing
+- Served as a containerised FastAPI microservice
+- Deployed to AWS ECS via Docker
+
+`Python` `FastAPI` `Scikit-Learn` `Pandas` `Docker` `AWS ECS`
+
+[📂 View Repo](https://github.com/Vali-Hameed/UFC-Fight-Predictor)
+</details>
+
+<details>
+<summary><b>🕷️ Scraper Service</b> — Automated live data ingestion</summary>
+
+- Autonomous Python worker scraping live UFC fight cards, event data, and fighter stats
+- Authenticated pushes to the core API via scraper key
+- Built with Playwright for JS-rendered pages
+
+`Python` `FastAPI` `Playwright` `Docker`
+
+[📂 View Repo](https://github.com/Vali-Hameed/UFC-Scraper)
+</details>
+
+---
+
+## `> git log --stat`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vali-Hameed&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vali-Hameed&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+
+</div>
+
+---
+
+## `> cat ./currently`
+
+```json
+{
+  "building"  : "Picky Eater — full-stack web + mobile food platform",
+  "studying"  : "Computer Science BSc @ Lancaster University (Year 2)",
+  "exploring" : ["distributed systems", "ML serving", "system design"],
+  "open_to"   : ["internships", "collaborations", "interesting problems"]
+}
+```
+
+---
+
+<div align="center">
+
+*If you're building something ambitious — [let's talk](https://www.vali-hameed.com/).*
+
+</div>
