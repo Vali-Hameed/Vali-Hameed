@@ -11,7 +11,7 @@
 
 ### *discipline in code. precision in delivery.*
 
-[![Website](https://img.shields.io/badge/⚡_Portfolio-vali--hameed.com-000000?style=for-the-badge&logoColor=white)](https://www.vali-hameed.com/)
+[![Website](https://img.shields.io/badge/⚡vali--hameed.com-000000?style=for-the-badge&logoColor=white)](https://www.vali-hameed.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vali-hameed)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Valihameed88@gmail.com)
 
@@ -101,7 +101,8 @@ Next.js Frontend  ──JWT──►  Spring Boot API  ──JPA──►  Postg
 **What's inside each service:**
 
 <details>
-<summary><b>🌐 Web App</b> — Spring Boot + Next.js monorepo</summary>
+<summary><b>🌐 Web App</b> — Spring Boot + Next.js monorepo &nbsp;·&nbsp; <a href="https://github.com/Vali-Hameed/UFC-Fight-Predictor-Website">📂 Repo</a></summary>
+<br>
 
 - JWT auth with HttpOnly cookies, refresh token rotation, and BCrypt hashing
 - Community predictions, discussion forums, and fight card polling
@@ -111,32 +112,28 @@ Next.js Frontend  ──JWT──►  Spring Boot API  ──JPA──►  Postg
 - Fully containerised local dev stack via Docker Compose — no local Java or Node needed
 
 `Java 17` `Spring Boot 3` `Spring Security` `Next.js 15` `TypeScript` `PostgreSQL` `Docker`
-
-[📂 View Repo](https://github.com/Vali-Hameed/UFC-Fight-Predictor-Website)
 </details>
 
 <details>
-<summary><b>🤖 ML Service</b> — Containerised prediction API</summary>
+<summary><b>🤖 ML Service</b> — Containerised prediction API &nbsp;·&nbsp; <a href="https://github.com/Vali-Hameed/UFC-Fight-Predictor">📂 Repo</a></summary>
+<br>
 
 - Logistic regression model trained on 6,000+ historical bouts with Pandas preprocessing
 - Served as a containerised FastAPI microservice
 - Deployed to AWS ECS via Docker
 
 `Python` `FastAPI` `Scikit-Learn` `Pandas` `Docker` `AWS ECS`
-
-[📂 View Repo](https://github.com/Vali-Hameed/UFC-Fight-Predictor)
 </details>
 
 <details>
-<summary><b>🕷️ Scraper Service</b> — Automated live data ingestion</summary>
+<summary><b>🕷️ Scraper Service</b> — Automated live data ingestion &nbsp;·&nbsp; <a href="https://github.com/Vali-Hameed/UFC-Scraper">📂 Repo</a></summary>
+<br>
 
 - Autonomous Python worker scraping live UFC fight cards, event data, and fighter stats
 - Authenticated pushes to the core API via scraper key
 - Built with Playwright for JS-rendered pages
 
 `Python` `FastAPI` `Playwright` `Docker`
-
-[📂 View Repo](https://github.com/Vali-Hameed/UFC-Scraper)
 </details>
 
 ---
@@ -145,9 +142,7 @@ Next.js Frontend  ──JWT──►  Spring Boot API  ──JPA──►  Postg
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vali-Hameed&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vali-Hameed&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vali-Hameed&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff)](https://github.com/Vali-Hameed)
 
 </div>
 
