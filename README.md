@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b0764,100:0d1117&height=120&section=header" width="100%"/>
 
 ```
 ██╗   ██╗ █████╗ ██╗     ██╗
@@ -11,9 +11,9 @@
   ╚═══╝  ╚═╝  ╚═╝╚══════╝╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+%40+Lancaster+University;Co-Founder+%26+Lead+Engineer;Full-Stack+%7C+ML+%7C+Mobile;MMA+fan+who+codes+with+discipline)](https://www.vali-hameed.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=a855f7&center=true&vCenter=true&width=500&lines=CS+%40+Lancaster+University;Co-Founder+%26+Lead+Engineer;Full-Stack+%7C+ML+%7C+Mobile;MMA+fan+who+codes+with+discipline)](https://www.vali-hameed.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vali-Hameed&style=flat-square&color=58a6ff&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=Vali-Hameed&style=flat-square&color=a855f7&label=profile+views)
 
 [![Website](https://img.shields.io/badge/⚡vali--hameed.com-000000?style=for-the-badge&logoColor=white)](https://www.vali-hameed.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vali-hameed)
@@ -77,10 +77,14 @@ Outside the terminal: I'm an MMA fan (Muay Thai & Kickboxing), which probably ex
 
 > A 3D launch-window optimisation system built under hackathon pressure. Real-time satellite orbit and debris field visualisation powered by WebGL and Three.js. A custom risk engine calculates collision probabilities against live debris density data, while an ML-driven weather service generates automated Go/No-Go launch decisions.
 
-| Layer | Tech |
-|---|---|
-| Frontend | `Next.js 14` `TypeScript` `React` `Three.js / WebGL` |
-| Backend | `Python` `FastAPI` `XGBoost` `Scikit-Learn` `Pandas` |
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 &nbsp;&nbsp;[🔗 Live Demo](https://leedshack2026-prototype.vercel.app/) &nbsp;·&nbsp; [📂 Code](https://github.com/akaltemamey/leedshack2026-prototype)
 
@@ -105,7 +109,7 @@ Next.js Frontend  ──JWT──►  Spring Boot API  ──JPA──►  Postg
 **What's inside each service:**
 
 <details>
-<summary><b>🌐 Web App</b> — Spring Boot + Next.js monorepo &nbsp;·&nbsp; <a href="https://github.com/Vali-Hameed/UFC-Fight-Predictor-Website">📂 Repo</a></summary>
+<summary><b>🌐 Web App</b> — Spring Boot + Next.js monorepo &nbsp;·&nbsp; <a href="https://github.com/Vali-Hameed/UFC-Fight-Predictor-Website">📂 Code</a></summary>
 <br>
 
 - JWT auth with HttpOnly cookies, refresh token rotation, and BCrypt hashing
@@ -115,29 +119,42 @@ Next.js Frontend  ──JWT──►  Spring Boot API  ──JPA──►  Postg
 - Admin dashboard for managing users, roles, and fights
 - Fully containerised local dev stack via Docker Compose — no local Java or Node needed
 
-`Java 17` `Spring Boot 3` `Spring Security` `Next.js 15` `TypeScript` `PostgreSQL` `Docker`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 </details>
 
 <details>
-<summary><b>🤖 ML Service</b> — Containerised prediction API &nbsp;·&nbsp; <a href="https://github.com/Vali-Hameed/UFC-Fight-Predictor">📂 Repo</a></summary>
+<summary><b>🤖 ML Service</b> — Containerised prediction API &nbsp;·&nbsp; <a href="https://github.com/Vali-Hameed/UFC-Fight-Predictor">📂 Code</a></summary>
 <br>
 
 - Logistic regression model trained on 6,000+ historical bouts with Pandas preprocessing
 - Served as a containerised FastAPI microservice
 - Deployed to AWS ECS via Docker
 
-`Python` `FastAPI` `Scikit-Learn` `Pandas` `Docker` `AWS ECS`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 </details>
 
 <details>
-<summary><b>🕷️ Scraper Service</b> — Automated live data ingestion &nbsp;·&nbsp; <a href="https://github.com/Vali-Hameed/UFC-Scraper">📂 Repo</a></summary>
+<summary><b>🕷️ Scraper Service</b> — Automated live data ingestion &nbsp;·&nbsp; <a href="https://github.com/Vali-Hameed/UFC-Scraper">📂 Code</a></summary>
 <br>
 
 - Autonomous Python worker scraping live UFC fight cards, event data, and fighter stats
 - Authenticated pushes to the core API via scraper key
 - Built with Playwright for JS-rendered pages
 
-`Python` `FastAPI` `Playwright` `Docker`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 </details>
 
 ---
@@ -146,9 +163,10 @@ Next.js Frontend  ──JWT──►  Spring Boot API  ──JPA──►  Postg
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vali-Hameed&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff)](https://github.com/Vali-Hameed)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vali-Hameed&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=a855f7&fire=a855f7&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff)](https://github.com/Vali-Hameed)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vali-Hameed&theme=darkhub&no-frame=true&margin-w=8&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vali-Hameed/Vali-Hameed/output/github-contribution-grid-snake-dark.svg" />
@@ -175,7 +193,7 @@ Next.js Frontend  ──JWT──►  Spring Boot API  ──JPA──►  Postg
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b0764,100:0d1117&height=80&section=footer" width="100%"/>
 
 *If you're building something ambitious — [let's talk](https://www.vali-hameed.com/).*
 
