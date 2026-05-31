@@ -9,7 +9,7 @@
   ╚═══╝  ╚═╝  ╚═╝╚══════╝╚═╝
 ```
 
-### *discipline in code. precision in delivery.*
+### *Discipline in code. Precision in delivery.*
 
 [![Website](https://img.shields.io/badge/⚡vali--hameed.com-000000?style=for-the-badge&logoColor=white)](https://www.vali-hameed.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vali-hameed)
