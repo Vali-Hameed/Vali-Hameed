@@ -101,7 +101,7 @@ Next.js Frontend  ──JWT──►  Spring Boot API  ──JPA──►  Postg
 **What's inside each service:**
 
 <details>
-<summary><b>🌐 Web App</b> — Spring Boot + Next.js monorepo &nbsp;·&nbsp; <a href="https://github.com/Vali-Hameed/UFC-Fight-Predictor-Website">📂 Repo</a></summary>
+<summary><b>🌐 Web App</b> — Spring Boot + Next.js monorepo &nbsp;·&nbsp; <a href="https://github.com/Vali-Hameed/UFC-Fight-Predictor-Website">📂 Code</a></summary>
 <br>
 
 - JWT auth with HttpOnly cookies, refresh token rotation, and BCrypt hashing
@@ -115,7 +115,7 @@ Next.js Frontend  ──JWT──►  Spring Boot API  ──JPA──►  Postg
 </details>
 
 <details>
-<summary><b>🤖 ML Service</b> — Containerised prediction API &nbsp;·&nbsp; <a href="https://github.com/Vali-Hameed/UFC-Fight-Predictor">📂 Repo</a></summary>
+<summary><b>🤖 ML Service</b> — Containerised prediction API &nbsp;·&nbsp; <a href="https://github.com/Vali-Hameed/UFC-Fight-Predictor">📂 Code</a></summary>
 <br>
 
 - Logistic regression model trained on 6,000+ historical bouts with Pandas preprocessing
@@ -126,7 +126,7 @@ Next.js Frontend  ──JWT──►  Spring Boot API  ──JPA──►  Postg
 </details>
 
 <details>
-<summary><b>🕷️ Scraper Service</b> — Automated live data ingestion &nbsp;·&nbsp; <a href="https://github.com/Vali-Hameed/UFC-Scraper">📂 Repo</a></summary>
+<summary><b>🕷️ Scraper Service</b> — Automated live data ingestion &nbsp;·&nbsp; <a href="https://github.com/Vali-Hameed/UFC-Scraper">📂 Code</a></summary>
 <br>
 
 - Autonomous Python worker scraping live UFC fight cards, event data, and fighter stats
