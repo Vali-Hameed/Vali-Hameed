@@ -146,6 +146,7 @@ Next.js Frontend  ──REST/JWT──►  Spring Boot API  ──JPA/Hibernate�
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vali-Hameed&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=a855f7&fire=a855f7&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff)](https://github.com/Vali-Hameed)
+![Vali's Activity](https://github-readme-activity-graph.vercel.app/graph?username=Vali-Hameed&theme=react-dark&hide_border=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vali-Hameed/Vali-Hameed/output/github-contribution-grid-snake-dark.svg">
