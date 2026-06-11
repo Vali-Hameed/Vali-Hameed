@@ -1,3 +1,5 @@
+<div align="center">
+
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b0764,100:0d1117&height=120&section=header)](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b0764,100:0d1117&height=120&section=header)
 
 ```
@@ -14,6 +16,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Vali-Hameed&style=flat-square&color=a855f7&label=profile+views)](https://komarev.com/ghpvc/?username=Vali-Hameed&style=flat-square&color=a855f7&label=profile+views)
 
 [![Website](https://img.shields.io/badge/%E2%9A%A1vali--hameed.com-000000?style=for-the-badge&logoColor=white)](https://www.vali-hameed.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vali-hameed) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Valihameed88@gmail.com)
+
+</div>
 
 ---
 
@@ -139,9 +143,13 @@ Next.js Frontend  ──REST/JWT──►  Spring Boot API  ──JPA/Hibernate�
 
 ## `> git log --stat`
 
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vali-Hameed&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=a855f7&fire=a855f7&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff)](https://github.com/Vali-Hameed)
 
 ![contribution snake](https://raw.githubusercontent.com/Vali-Hameed/Vali-Hameed/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
@@ -158,6 +166,10 @@ Next.js Frontend  ──REST/JWT──►  Spring Boot API  ──JPA/Hibernate�
 
 ---
 
+<div align="center">
+
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b0764,100:0d1117&height=80&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b0764,100:0d1117&height=80&section=footer)
 
 *If you're building something ambitious — [let's talk](https://www.vali-hameed.com/).*
+
+</div>
