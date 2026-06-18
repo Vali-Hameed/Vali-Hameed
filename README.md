@@ -27,7 +27,7 @@ CS undergrad at Lancaster University chasing a First — but more importantly, s
 
 I build from first principles: no framework cargo-culting, no tutorial-driven code. Across ML systems, full-stack web apps, mobile platforms, and everything in between — I care about taking ideas all the way to deployed, working products.
 
-Currently: co-founding **Picky Eater** 🍽️ — a web + mobile platform I architect and engineer from the ground up.
+Currently: building **FightPicks** 🥊 — a full-stack MMA prediction platform I architected and engineered from the ground up.
 
 Outside the terminal: I'm an MMA fan (Muay Thai & Kickboxing), which probably explains why I gravitate toward problems that require sustained effort and discipline.
 
@@ -161,7 +161,7 @@ Next.js Frontend  ──REST/JWT──►  Spring Boot API  ──JPA/Hibernate�
 
 ```json
 {
-  "building"  : "Picky Eater — full-stack web + mobile food platform",
+  "building"  : "FightPicks — full-stack AI prediction & community platform",
   "studying"  : "Computer Science BSc @ Lancaster University (Year 2)",
   "exploring" : ["distributed systems", "ML serving", "system design"],
   "open_to"   : ["internships", "collaborations", "interesting problems"]
