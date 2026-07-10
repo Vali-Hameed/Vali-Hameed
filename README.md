@@ -162,9 +162,9 @@ Next.js Frontend  ──REST/JWT──►  Spring Boot API  ──JPA/Hibernate�
 ```json
 {
   "building"  : "FightPicks — full-stack AI prediction & community platform",
-  "studying"  : "Computer Science BSc @ Lancaster University (Year 2)",
+  "studying"  : "Computer Science BSc @ Lancaster University (Year 3)",
   "exploring" : ["distributed systems", "ML serving", "system design"],
-  "open_to"   : ["internships", "collaborations", "interesting problems"]
+  "open_to"   : ["grad jobs", "internships", "interesting problems"]
 }
 ```
 
