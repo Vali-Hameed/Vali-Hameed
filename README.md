@@ -69,7 +69,7 @@ Outside the terminal: I'm an MMA fan (Muay Thai & Kickboxing), which probably ex
 
 ---
 
-### 🥊 UFC Fight Predictor — *Full Microservices Ecosystem*
+### 🥊 FightPicks — *Full Microservices Ecosystem*
 
 > A passion project that became a proper engineering challenge. Three decoupled services working in concert to bring ML-powered fight predictions and community analytics to MMA fans.
 
