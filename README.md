@@ -18,8 +18,11 @@
 [![Website](https://img.shields.io/badge/%E2%9A%A1vali--hameed.com-000000?style=for-the-badge&logoColor=white)](https://www.vali-hameed.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vali-hameed) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Valihameed88@gmail.com)
 
 </div>
-<img src="koi/koi.gif" width="256" alt="My koi" />
 
+<div align="center">
+<img src="koi/koi.gif" width="256" alt="My koi" />
+<\div>
+ 
 ## `> whoami`
 
 CS undergrad at Lancaster University chasing a First — but more importantly, someone who actually ships things.
