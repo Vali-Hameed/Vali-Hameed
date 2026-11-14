@@ -73,6 +73,8 @@ Outside the terminal: I'm an MMA fan (Muay Thai & Kickboxing), which probably ex
 
 > A passion project that became a proper engineering challenge. Three decoupled services working in concert to bring ML-powered fight predictions and community analytics to MMA fans.
 
+[🔗 Live Site](https://fightpicks.net/) 
+
 **How it fits together:**
 
 ```
